@@ -12,19 +12,16 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-
-    # Needed so the action can commit/update your metrics output in the repo
     permissions:
       contents: write
 
     steps:
-      # Sanity check: confirm the secret is actually present (does not print the token)
       - name: Ensure METRICS_TOKEN is available
         shell: bash
         run: |
           if [ -z "${{ secrets.METRICS_TOKEN }}" ]; then
             echo "ERROR: METRICS_TOKEN is empty or unavailable to this workflow."
-            echo "Fix: Repo Settings -> Secrets and variables -> Actions -> New repository secret"
+            echo "Add it here: Settings -> Secrets and variables -> Actions -> Repository secrets"
             echo "Name: METRICS_TOKEN  Value: (your GitHub classic PAT)"
             exit 1
           fi
@@ -35,7 +32,6 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # Options
           user: Yetval1234556
           template: classic
           base: header, activity, community, repositories, metadata
