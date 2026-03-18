@@ -26,7 +26,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: Yetval1234556
+          user: yetval
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Chicago
