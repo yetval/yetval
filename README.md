@@ -23,7 +23,7 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=py,ts,js,cpp,go,dart&perline=6" />
+<img src="https://skillicons.dev/icons?i=py,ts,js,cpp,rust,go,java,kotlin,swift,dart&perline=5" />
 
 **Frameworks & Tools**
 
