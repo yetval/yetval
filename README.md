@@ -27,11 +27,11 @@
 
 **Frameworks & Tools**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,flutter&perline=6" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,flutter,nodejs,express,fastapi,django,graphql&perline=5" />
 
 **Data & Infrastructure**
 
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,docker,aws,redis,git&perline=6" />
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis,firebase,docker,kubernetes,aws,gcp,git&perline=5" />
 
 </div>
 
