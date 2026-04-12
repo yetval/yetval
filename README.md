@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Yuval+Dinodia+👋;Full+Stack+Developer;AI+%26+ML+Enthusiast;Always+Building+Something+🚀" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey%2C+I%27m+Yuval+Dinodia+%F0%9F%91%8B;Full+Stack+Developer;AI+%26+ML+Enthusiast;Always+Building+Something+%F0%9F%9A%80" alt="Typing animation" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding" />
 </div>
 
 <br/>
@@ -7,7 +11,13 @@
 ## 🚀 About Me
 
 **Full Stack Developer based in the US 🇺🇸**
+
+<br/>
+
 Passionate about building impactful software — from AI-powered tools to scalable web apps.
+
+<br/>
+
 *"It always seems impossible until it's done." — Nelson Mandela*
 
 ---
@@ -44,7 +54,17 @@ Passionate about building impactful software — from AI-powered tools to scalab
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yetval&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=FFFFFF" />
+  <img src="https://streak-stats.demolab.com?user=yetval&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=FFFFFF" />
+</div>
+
+---
+
+## 🤝 Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yetval)
+
 </div>
 
 ---
