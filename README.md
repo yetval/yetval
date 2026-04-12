@@ -40,13 +40,11 @@
 ### 📈 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yetval&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yetval&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=5" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=yetval&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=888888" width="480"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=yetval&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=888888" width="480"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yetval&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF" width="100%"/>
 </div>
 
 ---
