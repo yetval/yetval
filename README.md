@@ -23,15 +23,15 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=py,ts,js,html,css,bash&perline=6" />
+<img src="https://skillicons.dev/icons?i=py,ts,js,cpp,rust,go,java,kotlin,swift,dart&perline=5" />
 
-**ML & Backend**
+**Frameworks & Tools**
 
-<img src="https://skillicons.dev/icons?i=pytorch,flask,nodejs,vitest&perline=6" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,flutter,nodejs,express,fastapi,django,vite&perline=5" />
 
-**Infra & Tools**
+**Data & Infrastructure**
 
-<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,githubactions&perline=6" />
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis,firebase,docker,kubernetes,aws,googlecloud,git&perline=5" />
 
 </div>
 
