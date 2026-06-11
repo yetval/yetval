@@ -37,15 +37,12 @@
 
 ---
 
-### 🏆 Trophies
+### 📈 Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yetval&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yetval&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yetval&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF" height="180"/>
 </div>
-
----
-
-### 📈 Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=yetval&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=888888" width="480"/>
