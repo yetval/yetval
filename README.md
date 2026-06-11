@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=1200&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&lines=Hey+there%2C+I%27m+Yuval+%F0%9F%91%8B;Full+Stack+%26+AI+Developer;Building+things+that+matter." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=1200&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&lines=Hey+there%2C+I%27m+Yuval+%F0%9F%91%8B;Open+source+bug+hunter+%F0%9F%90%9B;ML+%2B+full+stack+builder+%F0%9F%A7%A0" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -10,10 +10,10 @@
 
 ### 🧠 About Me
 
-- 🔭 &nbsp; Building AI-powered and full stack applications
-- 🌱 &nbsp; Always learning — currently deep in ML and systems programming
-- 💡 &nbsp; I like clean code, fast products, and hard problems
-- 📍 &nbsp; Based in the US
+- 🐛 &nbsp; I hunt bugs in open source - a dozen+ fixes merged upstream and counting
+- 🔬 &nbsp; Training CNNs in PyTorch - presented an AI leukemia detection model at NCSAS 2026
+- 🛠 &nbsp; Building tools I actually use - Docker dashboards, exam practice apps, game solvers
+- 🎓 &nbsp; Student @ North Carolina School of Science and Mathematics
 
 ---
 
@@ -23,16 +23,24 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=py,ts,js,cpp,rust,go,java,kotlin,swift,dart&perline=5" />
+<img src="https://skillicons.dev/icons?i=py,ts,js,html,css,bash&perline=6" />
 
-**Frameworks & Tools**
+**ML & Backend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,flutter,nodejs,express,fastapi,django,vite&perline=5" />
+<img src="https://skillicons.dev/icons?i=pytorch,flask,nodejs,vitest&perline=6" />
 
-**Data & Infrastructure**
+**Infra & Tools**
 
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis,firebase,docker,kubernetes,aws,googlecloud,git&perline=5" />
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,githubactions&perline=6" />
 
+</div>
+
+---
+
+### 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yetval&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
 </div>
 
 ---
