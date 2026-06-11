@@ -1,19 +1,64 @@
-# Hi, I'm Yuval
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=1200&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&lines=Hey+there%2C+I%27m+Yuval+%F0%9F%91%8B;Full+Stack+%26+AI+Developer;Building+things+that+matter." alt="Typing SVG" />
+</div>
 
-Student at the North Carolina School of Science and Mathematics. Most of my time outside class goes into open source: finding a reproducible bug in a project I use, writing the regression test, and getting the fix merged upstream.
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
+</div>
 
-## Open source
+---
 
-- [openclaw/openclaw](https://github.com/openclaw/openclaw): a dozen merged fixes across config patching, cron scheduling, session migration, provider catalogs, the reply queue, and the Linux daemon
-- [openclaw/fs-safe](https://github.com/openclaw/fs-safe): fixed a race between async JSON reads and atomic renames
-- Smaller merged fixes in [Scrapling](https://github.com/D4Vinci/Scrapling) and a handful of other repos
+### 🧠 About Me
 
-## Projects
+- 🔭 &nbsp; Building AI-powered and full stack applications
+- 🌱 &nbsp; Always learning — currently deep in ML and systems programming
+- 💡 &nbsp; I like clean code, fast products, and hard problems
+- 📍 &nbsp; Based in the US
 
-- [ADM](https://github.com/yetval/ADM): a contained terminal dashboard for managing Docker containers on AWS hosts
-- [DECA Practice App](https://github.com/yetval/Deca_Practice_App): upload an official DECA exam PDF and get a timed, interactive practice session with progress tracking
-- [AI-Based Leukemia Detection](https://github.com/yetval/NCSAS-2026-AI-Based-Leukemia-Detection-Model-Extension): model extension presented at NCSAS 2026
+---
 
-## Reach me
+### 🛠 Tech
 
-yetvald@gmail.com
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=py,ts,js,cpp,rust,go,java,kotlin,swift,dart&perline=5" />
+
+**Frameworks & Tools**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,flutter,nodejs,express,fastapi,django,vite&perline=5" />
+
+**Data & Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis,firebase,docker,kubernetes,aws,googlecloud,git&perline=5" />
+
+</div>
+
+---
+
+### 📈 Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=yetval&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=888888" width="480"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yetval&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF" width="100%"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yetval&color=00D9FF&style=flat-square&label=Profile+Views" />
+  &nbsp;
+  <a href="https://github.com/yetval?tab=followers">
+    <img src="https://img.shields.io/github/followers/yetval?label=Followers&style=flat-square&color=00D9FF&labelColor=0D1117" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yetval/yetval/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" />
+</div>
