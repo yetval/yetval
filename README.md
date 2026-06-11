@@ -40,8 +40,7 @@
 ### 📈 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yetval&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yetval&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yetval&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF" />
 </div>
 
 <div align="center">
