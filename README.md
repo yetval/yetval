@@ -40,8 +40,7 @@
 ### 📈 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yetval&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF" />
-</div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yetval&theme=github_dark" /></div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yetval&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF" width="100%"/>
